@@ -1,1 +1,5 @@
-I am a passionate and aspiring developer with a strong focus on JavaScript and Python. My expertise extends to security testing for SQL databases, where I have gained hands-on experience in identifying vulnerabilities and ensuring data integrity. I am committed to continuous learning and developing innovative solutions, with a keen interest in building secure, scalable, and efficient systems. My goal is to leverage my skills to contribute to impactful projects and grow as a professional in the field of software development and cybersecurity.
+### Software Engineer  
+
+```yaml
+[FIAP] Engenharia de Software.
+Python, JavaScript. 
