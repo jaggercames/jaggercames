@@ -2,13 +2,12 @@
 
 ## Software Developer | Web Solutions | Process Automation
 
-Mainly backend developer, but I also build web apps and process automation.
+Mainly backend developer.
 
 ---
 
 ### About Me  
-<img src="./Fiap-logo.jpg" alt="FIAP" width="40" style="vertical-align: middle; margin-right: 8px;"/>  
-**Software Engineering @ FIAP** — 100% Scholarship (Prouni)  
+🎓 Software Engineering @ FIAP — 100% Scholarship (Prouni)  
 🔗 API Integrations, Web Solutions and Backend Development  
 
 ---
@@ -26,9 +25,10 @@ Mainly backend developer, but I also build web apps and process automation.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Low-Code Platforms](https://img.shields.io/badge/Low--Code-0064FA?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)  
 
 ---
 
-### Socials  
+### Reach Me!  
 - 💼 [LinkedIn](https://linkedin.com/in/cristianrezende)  
 - 📧 cristianrezendealmeida@gmail.com  
