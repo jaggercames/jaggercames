@@ -1,14 +1,13 @@
 # Cristian Rezende
 
-## Software Developer | Web Solutions | Process Automation
-
+**Software Developer | Web Solutions | Process Automation**  
 Mainly backend developer.
 
 ---
 
 ### About Me  
 🎓 Software Engineering @ FIAP — 100% Scholarship (Prouni)  
-🔗 API Integrations, Web Solutions and Backend Development  
+🔗 API Integrations, Web Solutions and Backend Development
 
 ---
 
@@ -17,6 +16,7 @@ Mainly backend developer.
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -25,7 +25,6 @@ Mainly backend developer.
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=for-the-badge)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Low-Code Platforms](https://img.shields.io/badge/Low--Code-0064FA?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)  
 
 ---
 
