@@ -7,7 +7,8 @@ Mainly backend developer, but I also build web apps and process automation.
 ---
 
 ### About Me  
-🎓 Software Engineering @ FIAP — 100% Scholarship (Prouni)  
+<img src="./Fiap-logo.jpg" alt="FIAP" width="40" style="vertical-align: middle; margin-right: 8px;"/>  
+**Software Engineering @ FIAP** — 100% Scholarship (Prouni)  
 🔗 API Integrations, Web Solutions and Backend Development  
 
 ---
